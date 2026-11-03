@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PDF Просмотр</string>
+    <string name="open">Открыть</string>
+    <string name="open_pdf">Открыть PDF-файл</string>
+    <string name="hint">Файл не выбран</string>
+    <string name="loading">Загрузка…</string>
+    <string name="error">Не удалось открыть файл. Возможно, он повреждён или защищён паролем.</string>
+    <string name="page_of">стр. %1$d из %2$d</string>
+</resources>
